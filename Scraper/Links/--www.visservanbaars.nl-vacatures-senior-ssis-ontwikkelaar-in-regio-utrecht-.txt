@@ -1,0 +1,10 @@
+Voor een klant van Visser & Van Baars ben ik op zoek naar een ervaren SQL Server SSIS ontwikkelaar in de regio Utrecht.
+Wat ga je doen als SQL Server SSIS ontwikkelaar?
+Je gaat werken aan de uitbreiding & opbouw van een nieuw Datawarehouse (DWH) samen met een gedreven groep professionals. Als datawarehouse (SSIS) ETL ontwikkelaar werk je in een multidisciplinair team aan de bouw van Datawarehouses en management informatie systemen.
+Jij bent verantwoordelijk voor het beheren van de benodigde applicaties met SSIS en Microsoft Office als leidende technologie voor ETL processen.
+Wat zoeken wij? 
+Minimaal een afgeronde Hbo/Wo opleiding; 
+Minimaal 5 jaar ervaring in een vergelijkbare functie en complexe omgeving;
+Goede kennis van SQL Server en SSIS, Datawarehousing, stermodelleren, SQL/ T-SQL en access zijn een must;
+Interesse?
+Reageer met je cv en ik zal contact met je opnemen als er een goede match is.

@@ -1,0 +1,17 @@
+Voor een zorginstelling in Utrecht zijn we op zoek naar een Business Intelligence Ontwikkelaar. Binnen het team ben je verantwoordelijk voor het bouwen & ontwerpen van Datawarehouses en ETL. Hierbij maken ze gebruik van de Microsoft tools SSIS SSAS SSRS & SharePoint. Als ontwikkelaar werk je in verschillende projectteams met verschillende competenties. 
+Communiceren op diverse niveaus is voor jou geen probleem en je vindt het leuk om jouw kennis te delen met anderen. Kwaliteit en flexibiliteit zijn termen die je aanspreken.
+Wat wordt er verwacht van een Business Intelligence Ontwikkelaar?
+Minimaal een afgeronde hbo-opleiding;
+Ervaring met Microsoft SSIS SSAS SSRS SharePoint;
+Kennis van Datawarehouse concepten;
+Kennis van architectuur, kubus technieken van Kimball en Inmon;
+Ervaring met het schakelen op diverse niveaus.
+Wat krijg je ervoor terug?
+Ruime doorgroeimogelijkheden;
+Diverse opleidingen;
+Elk jaar een reisje met al het personeel;
+25 vakantiedagen;
+Goede pensioenregeling;
+Prestatiebonus;
+Nieuwwerk staat hoog in het vaandel;
+Microsoft certificering.

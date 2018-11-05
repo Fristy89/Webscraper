@@ -1,0 +1,14 @@
+Voor een opdrachtgever in regio Gelderland ben ik op zoek naar een Datawarehouse Tester. Je krijgt een verantwoordelijke functie binnen een zeer technische werkomgeving.
+Wat ga je doen als Datawarehouse Tester?
+Voor deze opdracht dien je een teststrategie in een Big Data omgeving te ontwikkelen en te implementeren. Testautomatisering is hier een onderdeel van. Je stelt acceptatie criteria en coacht je team tijdens het refinement proces. Hiervoor is een proactieve en leergierige houding gewenst. Ook behoort het specificeren, coördineren en uitvoeren van testgevallen bij de werkzaamheden, evenals het rapporteren en herstellen.
+Wie zoeken wij?
+Hbo werk- en denkniveau
+3 tot 5 jaar werkervaring als tester
+Kennis van ETL / data integratie
+Kennis van ODI technologie is een pre
+Kennis van Hadoop/Cloudera technologie is een pre
+Kennis van testautomatisering
+Kunnen werken in een Agile omgeving, werkt met Scrum en DevOps
+Interesse?
+Reageer met je cv en ik zal contact met je opnemen als er een goede match is!
+ 

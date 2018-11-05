@@ -1,0 +1,15 @@
+Voor een klant van Visser & Van Baars in de regio van Tilburg ben ik op zoek naar een Oracle Ops Engineer.
+Mijn klant is momenteel bezig om een nieuw Datawarehouse (DWH) op te zetten, die een cruciale rol zal spelen in een aantal zeer belangrijke businesscases.
+Wat ga je doen als Oracle Ops Engineer?
+Als Oracle Ops engineer ga je werken in een DevOps-team, die zich enerzijds bezig houdt met de innovatie van het nieuwe Datawarehouse en anderzijds de continuïteit/kwaliteit van de data garandeert.  Als Oracle Ops engineer zal je verantwoordelijk zijn voor:
+Het beheer van het legacy systeem in het nieuwe DWH;
+Ondersteuning geven en uitvoer van wijzigingen in het DWH;
+Het uitvoeren van Life Cycle management;
+Wat breng je mee als Oracle Ops engineer?
+Je bent een communicatief vaardige teamplayer, die waar nodig in staat is om zijn/haar collega’s te overtuigen van de juiste werkwijze. Je bent resultaat gedreven, waarbij je de focus legt op het initiëren van verbetering.
+Hbo werk- en denkniveau
+Minimaal 3 jaar werkervaring in een vergelijkbare functie  
+Kennis en ervaring met Datawarehousing
+Kennis en ervaring met SQL, Oracle Exatdata, Linux, PowerCenter, Jira
+Kennis en ervaring met DevOps, ITIL & Agile/Scrum methodieken
+Ben je beschikbaar of kom je op korte termijn beschikbaar en heb je interesse in bovenstaande rol, reageer dan met je cv in een Word-document plus tariefindicatie op deze post. Bij een match neem ik zo snel mogelijk contact met je op.

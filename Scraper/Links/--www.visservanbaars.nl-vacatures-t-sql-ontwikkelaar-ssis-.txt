@@ -1,0 +1,11 @@
+Voor een klant van Visser & Van Baars in Zuid Limburg ben ik opzoek naar een ervaren T-SQL ontwikkelaar met SSIS ervaring.
+Wat ga je doen als T-SQL ontwikkelaar?
+Mijn opdrachtgever in de financiële sector zoekt een ervaren T-SQL ontwikkelaar die medeverantwoordelijk zal zijn voor de ontwikkeling van de SQL server database. Tijdens de opdracht zal je jezelf vooral bezig houden met het ontwerpen, implementeren, consolideren en migreren van de database omgeving. Het betreft een zeer complexe en uitdagende omgeving. Binnen de opdracht zal er veel geschakeld moeten worden met de business, hierdoor zijn je communicatieve skills van groot belang.
+Wat breng je mee als T-SQL ontwikkelaar?
+Hbo werk- en denkniveau
+Diepgaande ervaring als SQL server developer 
+Minimaal 6 jaar werkervaring met T-SQL (Scripten, Stored procedures, ect)
+Minimaal 4 jaar werkervaring met SSIS
+Kennis en ervaring met PowerShell is een grote pré
+Kennis en ervaring met Agile/Scrum methodieken
+Ben je beschikbaar of kom je op korte termijn beschikbaar en heb je interesse in bovenstaande rol, reageer dan met je cv in een Word-document plus tariefindicatie op deze post. Bij een match neem ik zo snel mogelijk contact met je op.

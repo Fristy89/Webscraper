@@ -1,0 +1,8 @@
+Voor onze opdrachtgever zijn wij op zoek naar een Cloud Solution Architect die de organisatie begeleid en adviseert voor een migratietraject naar de cloud. Het team is momenteel hard bezig met het ontwerpen en inrichten van een Cloud omgeving. Jouw taak wordt het opzetten van de Cloud omgeving en het aansturen van het team. 
+Wat moet een Solution Architect meebrengen?
+Kennis van data integratie en migratietools (SQL server 2016)
+Ervaring met Cloud delivery modellen
+Kennis van data storage systemen (DWH en Hadoop)
+Data modeleringstechnieken (datavault en dimensionaal modelleren)
+Je gaat samenwerken met een ervaren Dev Ops team met Scrum-principes. Het is belangrijk dat je goed de wensen van het management kunt overbrengen naar het team en de requirements goed af weet te stemmen met de business.
+Ben jij geïnteresseerd in deze uitdaging en voldoe je aan het profiel? Reageer dan snel met je cv, ik kom graag met je in contact.

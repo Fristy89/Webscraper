@@ -1,0 +1,16 @@
+Voor een directe eindklant van Visser & van Baars in de regio Amsterdam ben ik per direct op zoek naar een interim SQL Server Specialist die zich bezig gaat houden met het beheer (80%) en het door-ontwikkelen (20%) van de huidige Microsoft SQL Server omgeving.
+De organisatie waar je komt te werken
+De organisatie, die opereert in de financiële wereld, wil een optimale dienstverlening leveren aan haar klanten. Daarvoor is een duurzame, betrouwbare en veilige werk- infraomgeving nodig. Het desbetreffende team (één van de vijf die vallen onder IT Infra), verzorgt dit samen met haar partners. Naast het dagelijkse beheer is het team ook verantwoordelijk voor het door-ontwikkelen van de huidige omgeving naar wens(en) van de klant. Tevens werken zij nauw samen met het Business Intelligence team wat bestaat uit: Business analisten, DWH specialisten en functioneel/technisch beheerders.
+Wat moet je als Interim SQL Server Specialist meenemen?
+Afgeronde opleiding (minimaal HBO)
+5 – 7 jaar relevante en vergelijkbare werkervaring
+Aantoonbare kennis en expertise van Microsoft SQL server (2012, 2014 en T-SQL)
+MCSA 2012/2014 (of in ieder geval hiermee bezig)
+Kennis en ervaring met Agile/Scrum
+Kennis en ervaring van ITIL processen
+De volgende dingen zijn een pre:
+Ervaring met de MSBI stack (SSIS, SSRS en SSAS)
+Hands-on ervaring met automatiseren (Powershell en Shell scripting)
+Eerdere ervaring in de financiële sector
+Ervaring als Scrummaster
+ 

@@ -1,0 +1,14 @@
+Voor een klant van Visser & Van Baars in de regio Utrecht/Amsterdam ben ik per direct op zoek naar Oracle DBA's met GoldenGate ervaring, let op dit is een must.
+Wat ga je doen al Oracle DBA?
+Samen met een team van 5 andere database beheerders, zul je verantwoordelijk zijn voor de inrichting van de database infrastructuur omgeving van de klant. Je zal je voornamelijk bezig houden met installatie en configuratie, Performance tuning en migraties. De eerste uitdaging zit 'm in de migratie van de GoldenGate software naar HVR software.
+Wat breng je mee als Oracle DBA?
+Hbo werk- en denkniveau;
+Diepgaande ervaring als Database administrator in complexe omgevingen;
+Minimaal 8 jaar werkervaring als Oracle DBA (11g/12c);
+Kennis /ervaring van GoldenGate (KNOCK OUT)
+Kennis en ervaring met Unix en Linux;
+Kennis en ervaring met het OTAP principe;
+  Ben je beschikbaar of kom je op korte termijn beschikbaar en heb je interesse in bovenstaande rol, reageer dan met je cv in een Word-document plus tariefindicatie op deze post. Bij een match neem ik zo snel mogelijk contact met je op.
+
+Sun de Rover
+Visser & van Baars 

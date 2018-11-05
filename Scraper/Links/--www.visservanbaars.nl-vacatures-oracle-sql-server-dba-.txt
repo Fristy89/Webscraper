@@ -1,0 +1,16 @@
+Voor een klant van Visser & Van Baars ben ik op zoek naar een Oracle / SQL server DBA. De omgeving van de opdrachtgever bestaat voor 60% uit Oracle en 40% uit SQL server.
+Achtergrond opdracht:
+De klant bevindt zich in de financiële sector waardoor het  belangrijk is dat de continuïteit van het databaselandschap gewaarborgd wordt. Je gaat werken in een high availability omgeving met een team van 5 DBA’s.
+Wat ga je doen:
+Je bent met je team verantwoordelijk voor het reguliere beheer van de databases (Ooplossen van incidenten, problemen en uitvoeren van changes)
+Trouble shooten & performance Tuning
+Uitvoeren migraties Oracle naar SQL server
+Installatie, onderhoud en migraties op SQLServer 2008,2012,2014 (monitoring, tuning, backup & recovery, user management, cloning); 
+Monitoren van SQL Server instances door gebruik van Oracle heterogeneous services(HS) en OEM Grid Control
+Kennis en ervaring:
+Minimaal 7 jaar ervaring als Oracle DBA, minimaal 11g (12c is een pré)
+Minimaal 4 jaar ervaring als SQL server DBA minimaal 2012 (Always on)
+Ervaring met het migratietraject Oracle à SQL server
+Kennis en ervaring met Agile/Scrum methodiek
+Communicatief vaardig
+Ben je beschikbaar of kom je op korte termijn beschikbaar en heb je interesse in bovenstaande rol, reageer dan met je cv in Word-document plus tariefindicatie op deze post. Bij een match neem ik zo snel mogelijk contact met je op.

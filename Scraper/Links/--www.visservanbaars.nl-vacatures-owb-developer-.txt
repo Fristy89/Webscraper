@@ -1,0 +1,5 @@
+Voor een goede klant van Visser & Van Baars ben ik exclusief op zoek naar een OWB ontwikkelaar die op zeer korte termijn kan starten.
+Vanuit de business is er een grotere behoefte ontstaan om meer uit de rapportages te halen. Om dit te bereiken moeten er aanpassingen worden gedaan binnen het Datawarehouse. Dit zal gedaan worden op 2 manieren. Allereerst zal er zelf data worden samengesteld, dit d.m.v. koppelingen tussen verschillende tabellen. Daarnaast zullen er nieuwe bronnen worden ontsloten voor het Datawarehouse.
+De ontwerpen hiervoor liggen klaar en er moeten nu meters gemaakt worden. De ideale kandidaat is vooral een echte bouwer maar kan ook schakelen en sparren met de business.
+Heb je minimaal 3 tot 5 jaar OWB ervaring en ben je communicatief sterk? Reageer dan per direct met je cv en uurtarief en ik neem contact met je op. Als de match goed is kun je maandag of dinsdag al op gesprek!
+De klus is in Gelderland en heeft een initiële inzet t/m juni met grote kans op verlenging.

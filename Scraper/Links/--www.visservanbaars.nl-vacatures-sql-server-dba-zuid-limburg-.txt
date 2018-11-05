@@ -1,0 +1,14 @@
+Voor een organisatie in de regio van Maastricht is Visser & Van Baars B.V. per direct opzoek naar een Senior SQL Server DBA met ruime kennis van SQL Server 2008 t/m 2016
+Het betreft een opdracht voor het dagelijks SQL Server beheer van voornamelijk SQL Server 2014 omgevingen, die tevens begin volgend jaar gemigreerd dienen te worden naar 2016.
+Wat ga je doen? 
+  Monitoring van SQL Server2014 omgevingen
+Dagelijkse back-up SQL Server
+Het oplossen van problemen op databasegebied, met name op het gebied van Tuning
+Het doorvoeren van change requests op het SQL Server vlak
+Het installeren en configureren van nieuwe SQL Server database omgevingen (2014/2016)
+Implementatie van SQL Server monitoring met behulp van SCOM
+Inrichten en finetunen van SQL Server monitoring
+Het maken van een controle kader voor SQL Server security baselines
+Het betreft een opdracht van 3 maanden fulltime (36 uur p/w), met optie tot verlenging.
+Kun jij jezelf vinden in het gevraagde profiel en ben je per direct of op korte termijn beschikbaar? Laat het mij dan direct weten door een korte motivatie te schrijven en een cv te uploaden (in Word)! Indien dit voldoende strookt met de gevraagde expertise en ervaring neem ik zo snel mogelijk contact met je op.
+Alvast bedankt voor de reactie!

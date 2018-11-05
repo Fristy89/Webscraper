@@ -1,0 +1,19 @@
+Voor een klant in de regio Rotterdam ben ik op zoek naar een Business Analyst BI. Er is binnen dit bedrijf behoefte aan mooie en snelle rapportages, daarnaast is er ook nog een operationele verbeteringsslag te maken. Ook jij zult aan het roer staan van deze veranderingen.
+Wat ga je als Business Analyst BI precies doen?
+De klant heeft een Datawarehouse opgezet en de rapportagebehoefte groeit sterk. Er is behoefte aan mooie en snelle rapportages. Binnen het BI-team ben jij de Business Analyst die het gebruik van Qlikview en Tableau zal maximaliseren en je hebt liefst ook kennis van andere BI tools. 
+Ontwikkelen en onderhouden van trade, accounting-, risicopositie- en logistieke rapportages, dashboards en datasets met behulp van Tableau, Business Objects en Qlikview;
+Begeleiden en adviseren van gebruikers met betrekking tot rapportages, dashboards en datasets;
+Coaching van key-users in het gebruik van geavanceerde analyses;
+Ondersteunende (beheer)taken binnen het BI-team;
+Brede visie op BI (tools) en analytics en visie kunnen overbrengen en invoeren binnen de organisatie;
+Werken in een Agile omgeving;
+Meedenken tijdens de designfase binnen het RFC-proces;
+Proactief signaleren van mogelijke raakvlakken en alternatieve oplossingsrichtingen in het Datawarehouse op technisch en functioneel gebied.
+Functie-eisen
+HBO of WO diploma en +/- 3 jaar ervaring met business analyse;
+Ervaring met het formuleren van business requirements, het maken van use cases, business process modeling of data modeling en het maken van sequence diagrams;
+Ervaring met BI-tools is een duidelijke pré;
+Kennis van of affiniteit met ETL-processen, datawarehouses en/of databases is een duidelijke pré;
+Ervaring met het maken van SQL queries;
+Je neemt eigenaarschap van het traject, bent stressbestendig, pakt zaken snel op en werkt goed in teams;
+Je beschikt over goede Engelse mondelinge en schriftelijke vaardigheden, Nederlands is geen vereiste.

@@ -1,0 +1,16 @@
+In de regio Rotterdam zijn wij op zoek naar een ervaren MSB-specialist. 
+Wat ga je doen als MSBI-specialist
+Het Enterprise Datawarehouse is de spil in het applicatielandschap dat de komende jaren sterk gaat veranderen. Anticiperen op de toekomst is uitermate belangrijk waardoor voor jou als MSBI-Specialist mooie uitdagingen in het verschiet liggen. De omgeving waarmee je gaat werken is gebaseerd op MS SQL server producten.
+Je werk als MSBI Specialist is zeer afwisselend maar tot jouw belangrijkste taken/ aandachtsgebieden horen:
+ontwerpen van uitbreidingen en aanpassingen van het Enterprise Datawarehouse;
+opstellen van de architectuur en bewaken van de uitvoering;
+verbeterslag maken in het data logistieke proces;
+functioneel sturing geven aan ETL-ontwikkelaars in hun dagelijkse werkzaamheden.
+ Functie-eisen
+Een HBO bachelor diploma in de richting informatica of informatiekunde
+Minimaal vijf jaar ervaring als BI Specialist of ETL Developer
+Data Vault kennis is een must
+Kennis en ervaring met dimensionaal modelleren
+Minimaal 3 jaar ervaring met SSIS en MS SQL Server
+Zowel Nederlands als Engels perfect in woord en geschrift
+ 

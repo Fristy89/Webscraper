@@ -1,0 +1,17 @@
+Voor een bedrijf in de regio Rotterdam ben ik op zoek naar een gedreven Business Intelligence Ontwikkelaar.
+Wat ga je doen als Business Intelligence Ontwikkelaar
+Als Business Intelligence Ontwikkelaar is je primaire doelstelling het vervaardigen en continu verbeteren van informatieproducten naar aanleiding van de bestaande businessbehoefte. externe klanten.
+Daarnaast denk je mee in het ontwikkelen van Business Intelligence-initiatieven en zorg je er voor dat ze geïmplementeerd worden.
+Vertaalt functionele en non-functionele requirements (van wijzigingen op de bronsystemen en/of nieuwe rapportagewensen van interne en externe klanten)
+Realiseert de best passende software implementatie conform de architectuur requirements;
+Bewaakt de integriteit van de data in het Datawarehouse in relatie tot de data in de bronsystemen;
+Analyseert en verhelpt storingen in het datawarehouse/ interfaceprogrammatuur;
+Stelt technische (ontwerp)specificaties op van Datawarehouse, datamarts en interfaces en documenteert en onderhoudt deze;
+Stelt incidenteel functionele specificaties op;
+Toetst of de te bouwen programmatuur aan de rapportagewensen/ gebruikerwensen voldoet.
+Functie-eisen  
+Minimaal 2 jaar relevante werkervaring in een Datawarehouse omgeving met complexe ETL-processen;
+Aantoonbare uitgebreide kennis van T-SQL;
+Ervaring met hulpmiddelen Microsoft BI Products en Microsoft SQL Server;
+Kennis van (Microsoft) producten als SSIS en Visual Studio;
+Kennis van scripting (PowerShell, VBS, C#) is een pré.
